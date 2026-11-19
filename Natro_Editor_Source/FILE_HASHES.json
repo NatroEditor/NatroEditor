@@ -1,0 +1,54 @@
+{
+  "BUILD_LINUX.sh": {
+    "bytes": 401,
+    "sha256": "3470086179688a28e401da0bbf015de7bbcfd63b87d264a5b07780c56a958e31"
+  },
+  "BUILD_WINDOWS.cmd": {
+    "bytes": 646,
+    "sha256": "e83464d6ea65ccbc7e453283e12c173a77126b8cc7d751da825fa8366f745733"
+  },
+  "README.md": {
+    "bytes": 4069,
+    "sha256": "6abd0eea74933b031bd27352524fc087d005be79d93adfd211b31b13f2b5c309"
+  },
+  "editor/Natro_Editor.html": {
+    "bytes": 349172,
+    "sha256": "281eb74aea05b3715cf78695aedc3d8170be90814f6bbf47bc5bd3034a9528bd"
+  },
+  "launcher/Natro_Editor_core.exe": {
+    "bytes": 6327808,
+    "sha256": "93927181d76ff249f8065ba5084e1a39709e2e24432a9a9b8edf6e608bff2157"
+  },
+  "launcher/discover.go": {
+    "bytes": 4170,
+    "sha256": "303818e62741fb9da63232b87d79c18b7792cc604784da3dbf7b20b42d42cb1d"
+  },
+  "launcher/discover_test.go": {
+    "bytes": 630,
+    "sha256": "26325d3f27fd6f7716ad3de4bc66f313051d07b7a5eddc0588326fb898dc8276"
+  },
+  "launcher/go.mod": {
+    "bytes": 38,
+    "sha256": "c634a630a0a56c45e8b355631f939a752eeb22c43bdde8f6733c743658ff4faf"
+  },
+  "launcher/main_windows.go": {
+    "bytes": 11592,
+    "sha256": "394d5b5bb096a07970cb456f9f61b8085097aebe1c30118a7c4e5e19e038725b"
+  },
+  "resources/original_app_icon.rsrc": {
+    "bytes": 215552,
+    "sha256": "1b65ec5591f1f0ea1256b1faaff7468e945866ed037ae4e43dcabe060685033c"
+  },
+  "resources/yarn_ball_original.png": {
+    "bytes": 190742,
+    "sha256": "a551c3a1c7c236f00b9185698ead2f4085608eb407bd6531a597c12b1c775914"
+  },
+  "tools/attach_icon.py": {
+    "bytes": 4671,
+    "sha256": "df5aaa1dfa1f759403935161bcdc197fca46f4806cd5e47d33381e66f726aef9"
+  },
+  "tools/patch_editor.py": {
+    "bytes": 1779,
+    "sha256": "79e0dc03e81561eabffa1422be822dd3061fd39f17e9e961d38c812213e7da56"
+  }
+}
